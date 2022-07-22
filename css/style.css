@@ -377,6 +377,7 @@ body {
     text-align: center;
     text-decoration: none;
     margin: 1em auto;
+    color: var(--Very-Dark-Blue);
 }
 
 .attribution a {
